@@ -6,7 +6,7 @@
 
         <title>Laravel</title>
         @viteReactRefresh
-        @vite(['resources/css/app.css', 'resources/js/app.jsx'])
+        @vite(['resources/css/app.scss', 'resources/ts/app.tsx'])
     </head>
     <body class="antialiased">
         <div id="app"></div>
